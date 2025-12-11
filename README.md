@@ -1,2 +1,2 @@
-# haskell-pattern-matching
+# WIL Sessions 
 Pattern matching exercises – WIL Haskell work
